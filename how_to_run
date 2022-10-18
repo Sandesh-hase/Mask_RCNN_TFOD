@@ -1,0 +1,2 @@
+Training command:-
+python train.py --logtostderr --train_dir=customtraining/ --pipeline_config_path=customtraining/mask_rcnn_inception_v2_coco.config
